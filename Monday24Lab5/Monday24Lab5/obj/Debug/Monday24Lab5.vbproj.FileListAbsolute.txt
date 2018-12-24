@@ -1,0 +1,11 @@
+C:\Users\Pnsound\source\repos\Monday24Lab5\Monday24Lab5\bin\Debug\Monday24Lab5.exe.config
+C:\Users\Pnsound\source\repos\Monday24Lab5\Monday24Lab5\bin\Debug\Monday24Lab5.exe
+C:\Users\Pnsound\source\repos\Monday24Lab5\Monday24Lab5\bin\Debug\Monday24Lab5.pdb
+C:\Users\Pnsound\source\repos\Monday24Lab5\Monday24Lab5\bin\Debug\Monday24Lab5.xml
+C:\Users\Pnsound\source\repos\Monday24Lab5\Monday24Lab5\obj\Debug\Monday24Lab5.Form1.resources
+C:\Users\Pnsound\source\repos\Monday24Lab5\Monday24Lab5\obj\Debug\Monday24Lab5.Resources.resources
+C:\Users\Pnsound\source\repos\Monday24Lab5\Monday24Lab5\obj\Debug\Monday24Lab5.vbproj.GenerateResource.cache
+C:\Users\Pnsound\source\repos\Monday24Lab5\Monday24Lab5\obj\Debug\Monday24Lab5.vbproj.CoreCompileInputs.cache
+C:\Users\Pnsound\source\repos\Monday24Lab5\Monday24Lab5\obj\Debug\Monday24Lab5.exe
+C:\Users\Pnsound\source\repos\Monday24Lab5\Monday24Lab5\obj\Debug\Monday24Lab5.xml
+C:\Users\Pnsound\source\repos\Monday24Lab5\Monday24Lab5\obj\Debug\Monday24Lab5.pdb
