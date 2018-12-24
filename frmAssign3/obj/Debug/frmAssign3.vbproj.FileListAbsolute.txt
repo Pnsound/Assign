@@ -1,0 +1,16 @@
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.vbprojAssemblyReference.cache
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.Form1.resources
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.Resources.resources
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.vbproj.GenerateResource.cache
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.vbproj.CoreCompileInputs.cache
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\bin\Debug\frmAssign3.exe.config
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\bin\Debug\frmAssign3.exe
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\bin\Debug\frmAssign3.pdb
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\bin\Debug\frmAssign3.xml
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.exe
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.xml
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.pdb
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.frmAssign4.resources
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.frmPractice5.resources
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.frmLab5.resources
+C:\Users\Pnsound\Desktop\Work\VB\frmAssign3\frmAssign3\obj\Debug\frmAssign3.frmAssign5.resources
